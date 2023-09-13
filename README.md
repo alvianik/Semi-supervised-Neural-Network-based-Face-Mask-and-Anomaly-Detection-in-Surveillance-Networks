@@ -13,7 +13,7 @@ This is code repository for the paper "Semi-supervised, Neural Network-based App
 * Tensorflow
 
 # Run the Code:
-1. Run the Face Detector MTCNN
+1. Run the Face Detector MTCNN. Code availalbe: https://github.com/matlab-deep-learning/mtcnn-face-detection/tree/master
 2. Run the Feature extractors python files Gabor, Sobel, Laplacian, DWT wavelet, Canny, RGB, Grayscaled. e.g. canny2.py
 3. Run the matlab files for KOAD. e.g. Exp0_canny2.m along with Exp14_canny2.m
 4. Run the PCA and Autoencoders python files for comparison.
