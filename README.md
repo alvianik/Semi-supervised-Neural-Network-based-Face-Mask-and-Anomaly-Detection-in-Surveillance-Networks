@@ -21,4 +21,4 @@ This is code repository for the paper "Semi-supervised, Neural Network-based App
 Dataset is not provided due to privacy issues of people images used.
 
 # Reference:
-Saheel, S., Alvi, A., Ani, A.R., Ahmed, T., Uddin, M.F., (2023). Semi-supervised, Neural Network-based Approaches to Face Mask and Anomaly Detection in Surveillance Networks. 
+Saheel, S., Alvi, A., Ani, A.R., Ahmed, T., Uddin, M.F., (2023). Semi-supervised, Neural Network-based Approaches to Face Mask and Anomaly Detection in Surveillance Networks. Submitted.
