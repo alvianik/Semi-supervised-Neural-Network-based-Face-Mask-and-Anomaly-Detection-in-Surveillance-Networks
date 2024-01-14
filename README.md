@@ -22,4 +22,4 @@ Dataset is not provided due to privacy issues of people images used.
 
 # Reference:
 Sabir Saheel, Anik Alvi, Aninda Roy Ani, Tarem Ahmed, Mohammad Faisal Uddin, Semi-supervised, Neural Network based approaches to face mask and anomaly detection in surveillance networks,
-Journal of Network and Computer Applications, 2023, 103786, ISSN 1084-8045, https://doi.org/10.1016/j.jnca.2023.103786
+Journal of Network and Computer Applications, volume 222, page 103786, 2024, https://doi.org/10.1016/j.jnca.2023.103786
